@@ -1,0 +1,286 @@
+[
+    {
+        "id": 1,
+        "name": "Chilli chicken",
+        "price": 520,
+        "image": "chillichicken.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chicken 555",
+        "price": 220,
+        "image": "chicken555.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Schezwan Chicken Dry",
+        "price": 250,
+        "image": "chickendry.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Chicken wings",
+        "price": 420,
+        "image": "chickenwings.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Chicken Magestics",
+        "price": 120,
+        "image": "chickenmagistics.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Chicken Lollipop",
+        "price": 120,
+        "image": "lollipop.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Veg Manchurian",
+        "price": 120,
+        "image": "vegmanch.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Gobi Manchurian",
+        "price": 120,
+        "image": "gobimanch.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Idly",
+        "price": 30,
+        "image": "idly.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Vada",
+        "price": 40,
+        "image": "vada.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Idly vada",
+        "price": 40,
+        "image": "idly vada.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Pongal vada",
+        "price": 50,
+        "image": "pongal vada.jpg"
+    }
+    ,
+    {
+        "id": 13,
+        "name": "Uttappam",
+        "price": 40,
+        "image": "uttappam.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Dosa",
+        "price": 35,
+        "image": "dosa.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Masala Dosa",
+        "price": 50,
+        "image": "masala.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Onion Dosa",
+        "price": 40,
+        "image": "onion dosa.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Ghee Dosa",
+        "price": 60,
+        "image": "ghee dosa.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Karapodi Dosa",
+        "price": 50,
+        "image": "karam dosa.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Egg Dosa",
+        "price": 60,
+        "image": "egg dosa.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Tea",
+        "price": 20,
+        "image": "tea.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Coffee",
+        "price": 40,
+        "image": "coffee.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Capuccino",
+        "price": 60,
+        "image": "capuccino.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Russian Salad",
+        "price": 140,
+        "image": "russian salad.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Caesar Salad",
+        "price": 130,
+        "image": "caesar salad.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Fish fingers",
+        "price": 220,
+        "image": "fish fingers.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Chicken hawaiian salad",
+        "price": 220,
+        "image": "chicken hawaian salad.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Chicken popcorn",
+        "price": 220,
+        "image": "chicken popcorn.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Fish Croquettes",
+        "price": 250,
+        "image": "fish croquettes.jpg"
+    },
+    {
+        "id": 29,
+        "name": "French Fries",
+        "price": 140,
+        "image": "french fried.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Cheese Fries",
+        "price": 150,
+        "image": "cheese fries.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Onion rings",
+        "price": 160,
+        "image": "onion rings.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Pepperoni pizza",
+        "price": 220,
+        "image": "pepperoni.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Mexican pizza",
+        "price": 180,
+        "image": "mexican.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Panner Tikka Pizza",
+        "price": 225,
+        "image": "ptikka.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Chicken Corn Pizza",
+        "price": 205,
+        "image": "chickencorn.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Chicken Tikka Pizza",
+        "price": 225,
+        "image": "chickentikka.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Veg Biryani",
+        "price": 150,
+        "image": "veg biryani.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Panner Biryani",
+        "price": 170,
+        "image": "panner biryani.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Veg Pulao",
+        "price": 140,
+        "image": "veg pulao.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Chicken Dum Biryani",
+        "price": 200,
+        "image": "chicken dum.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Chicken Fry Biryani",
+        "price": 200,
+        "image": "chicken fry.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Prawn Biryani",
+        "price": 230,
+        "image": "prawn.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Fish Biryani",
+        "price": 240,
+        "image": "fish.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Veg Burger",
+        "price": 140,
+        "image": "vegburger.webp"
+    },
+    {
+        "id": 46,
+        "name": "Cheese Burger",
+        "price": 150,
+        "image": "cheeseburger.webp"
+    },
+    {
+        "id": 47,
+        "name": "Chicken Burger",
+        "price": 180,
+        "image": "chickenburger.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Fish Burger",
+        "price": 200,
+        "image": "fishburger.webp"
+    }
+]

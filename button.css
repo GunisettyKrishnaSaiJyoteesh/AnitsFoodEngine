@@ -1,0 +1,33 @@
+.main
+{
+    width: 600px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 570px;
+    margin-top: 170px;
+    background-color: violet;
+}
+
+body{
+    background-color:rgb(7, 91, 91);
+}
+
+#bt2
+{
+    
+    color: #fff;
+    padding: 8px 22px;
+    border-radius: 6px;
+    background: #7d2ae8;
+    transition: all 0.2s ease;
+}   
+
+#bt1
+{
+
+    color: #fff;
+    padding: 8px 22px;
+    border-radius: 6px;
+    background: darkblue;
+    transition: all 0.2s ease;
+}
